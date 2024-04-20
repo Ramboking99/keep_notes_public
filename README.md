@@ -51,7 +51,23 @@ Contributions to KeepClone are welcome! If you have any ideas for new features, 
 
 License:
 
-This project is licensed under the MIT License, allowing for both personal and commercial use with proper attribution.
+This GitHub repository is provided under a Limited Use License, granting limited permissions for access and use under the following terms and conditions:
+
+Usage Restrictions: This GitHub repository may not be used for personal, commercial, or any other purposes beyond the scope defined by the license holder.
+
+Distribution: Redistribution of this GitHub repository, in whole or in part, is strictly prohibited without explicit written permission from the license holder.
+
+Modification: Modification of this GitHub repository, including but not limited to reverse engineering, decompilation, or disassembly, is not permitted.
+
+Ownership: The license holder retains all rights, title, and interest in and to the GitHub repository. No ownership rights are transferred under this license.
+
+No Warranty: This GitHub repository is provided "as is," without warranty of any kind, express or implied. The license holder assumes all risks associated with the use of this GitHub repository.
+
+Liability: In no event shall the license holder be liable for any damages or liabilities arising out of the use, inability to use, or performance of this GitHub repository.
+
+By accessing or using this GitHub repository, you agree to abide by the terms and conditions set forth in this license.
+
+For inquiries regarding licensing or permissions, please contact the license holder at ramanshusingh1999@gmail.com.
 
 
 Here is the link to the private repo:
