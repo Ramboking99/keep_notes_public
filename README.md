@@ -3,8 +3,9 @@ A public repository for Keep Notes App
 
 # keep_notes
 
-KeepClone: A Keep Notes App Clone
-KeepClone is a project aimed at replicating the functionality of Google's Keep Notes app using Dart and Flutter, with additional features implemented through SQFLITE and Firebase. This project provides users with a platform to create, organize, and manage their notes efficiently.
+Keep Notes Clone: A Keep Notes App Clone
+
+Keep Notes Clone is a project aimed at replicating the functionality of Google's Keep Notes app using Dart and Flutter, with additional features implemented through SQFLITE and Firebase. This project provides users with a platform to create, organize, and manage their notes efficiently.
 
 Features:
 Sticky Notes with Color Feature: Users can create colorful sticky notes to organize their thoughts, tasks, and reminders conveniently.
@@ -13,11 +14,13 @@ Archived Notes Feature: KeepClone enables users to archive notes they no longer 
 CRUD Operations: Full CRUD (Create, Read, Update, Delete) functionality is implemented, giving users complete control over their notes.
 Searching Functionality: Users can easily search through their notes using keywords, titles, or tags, facilitating quick access to specific information.
 Firebase Integration: Firebase is utilized for real-time synchronization of notes across devices, ensuring seamless user experience and data consistency.
+
 Technologies Used:
 Dart: Primary programming language used for building the app logic.
 Flutter: Framework used for developing the cross-platform user interface.
 SQFLITE: Local database for storing notes data locally on the device.
 Firebase: Cloud-based backend service for real-time data synchronization and user authentication.
+
 Getting Started:
 To get started with KeepClone, follow these steps:
 
@@ -26,6 +29,7 @@ Ensure you have Flutter installed on your system. If not, refer to the official 
 Set up Firebase for your project and configure the necessary authentication and database settings.
 Update the Firebase configuration in the project to connect it with your Firebase project.
 Run the app on your preferred device or emulator using Flutter CLI commands.
+
 Contributing:
 Contributions to KeepClone are welcome! If you have any ideas for new features, bug fixes, or improvements, feel free to open an issue or submit a pull request. Make sure to follow the contribution guidelines outlined in the repository.
 
